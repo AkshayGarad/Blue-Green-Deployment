@@ -7,31 +7,31 @@ Blue-Green Deployment offers a strategic method for implementing large-scale cha
 
 ## Table of Contents
 1. [Understanding Blue-Green Deployment](#understanding-blue-green-deployment)
-   1.1 Definition and Key Concepts
-   1.2 When to Consider Blue-Green Deployment
-   1.3 Benefits and Risks
+   - 1.1 Definition and Key Concepts
+   - 1.2 When to Consider Blue-Green Deployment
+   - 1.3 Benefits and Risks
 2. [Planning for Blue-Green Deployment](#planning-for-blue-green-deployment)
-   2.1 Establishing Clear Objectives
-   2.2 Assessing System Readiness
-   2.3 Risk Mitigation and Contingency Planning
-   2.4 Communication and Stakeholder Management
+   - 2.1 Establishing Clear Objectives
+   - 2.2 Assessing System Readiness
+   - 2.3 Risk Mitigation and Contingency Planning
+   - 2.4 Communication and Stakeholder Management
 3. [Preparing for Blue-Green Deployment](#preparing-for-blue-Green-deployment)
-   3.1 Code Freeze and Release Preparation
-   3.2 Testing and Quality Assurance
-   3.3 Infrastructure and Scalability Considerations
-   3.4 Data Migration and Backward Compatibility
+   - 3.1 Code Freeze and Release Preparation
+   - 3.2 Testing and Quality Assurance
+   - 3.3 Infrastructure and Scalability Considerations
+   - 3.4 Data Migration and Backward Compatibility
 4. [Executing Blue-Green Deployment](#executing-blue-green-deployment)
-   4.1 Sequencing and Order of Deployment
-   4.2 Deployment Strategies (Blue-Green vs. Red-Black)
-   4.3 Monitoring and Incident Response
-   4.4 Rollback and Post-Deployment Activities
+   - 4.1 Sequencing and Order of Deployment
+   - 4.2 Deployment Strategies (Blue-Green vs. Red-Black)
+   - 4.3 Monitoring and Incident Response
+   - 4.4 Rollback and Post-Deployment Activities
 5. [Post-Deployment Evaluation and Improvement](#post-deployment-evaluation-and-improvement)
-   5.1 Assessing Deployment Success
-   5.2 Gathering User Feedback
-   5.3 Continuous Improvement and Iterative Deployment
+   - 5.1 Assessing Deployment Success
+   - 5.2 Gathering User Feedback
+   - 5.3 Continuous Improvement and Iterative Deployment
 6. [Real-World Examples and Case Studies](#real-world-examples-and-case-studies)
-   6.1 Successful Blue-Green Deployments
-   6.2 Challenges Faced and Lessons Learned
+   - 6.1 Successful Blue-Green Deployments
+   - 6.2 Challenges Faced and Lessons Learned
 
 ## Understanding Blue-Green Deployment
 ### 1.1 Definition and Key Concepts
