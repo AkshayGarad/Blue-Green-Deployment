@@ -1,5 +1,6 @@
 # Blue-Green Deployment: Achieving Seamless Software Changes
 
+![Blue-Green Deployment](https://github.com/AkshayGarad/Blue-Green-Deployment/blob/main/Upgrades_Part1_Image1.jpeg)
 ## Introduction
 In the ever-evolving world of software development, organizations face the challenge of introducing significant changes to their systems while minimizing disruption and maximizing benefits. One deployment approach that has gained popularity and proven effective is known as "Blue-Green Deployment." This readme file provides an in-depth overview of Blue-Green Deployment, its advantages, challenges, and best practices for successful implementation.
 
